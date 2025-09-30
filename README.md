@@ -1,2 +1,2 @@
 # New project
-Say hello!!
+Say hello
